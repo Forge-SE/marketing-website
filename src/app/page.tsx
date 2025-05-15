@@ -24,7 +24,7 @@ export default function Home() {
       <div className="w-1/2 flex flex-col justify-center items-start gap-5">
         <h2 className="text-5xl font-semibold heading">Innovate. Build. Scale.</h2>
         <p className="text-xl font-light text-justify w-3/4 leading-normal">
-At Forge, we craft cutting-edge software solutions designed to elevate businesses worldwide. From intelligent automation to seamless user experiences, we bring ideas to life. Whether you're a startup aiming for rapid growth or an established enterprise seeking innovation, our expert team turns your vision into powerful, scalable technology
+At Forge, we craft cutting-edge software solutions designed to elevate businesses worldwide. From intelligent automation to seamless user experiences, we bring ideas to life. Whether you&apos;re a startup aiming for rapid growth or an established enterprise seeking innovation, our expert team turns your vision into powerful, scalable technology
         </p>
          <button className="bg-white text-black font-semibold text-lg px-4 py-3 rounded-xs heading">
       Meet The Team
